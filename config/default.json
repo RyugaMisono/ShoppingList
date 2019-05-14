@@ -1,0 +1,4 @@
+{
+    "monoURI": "mongodb://ryuga:ryuga123@ds137003.mlab.com:37003/shoppinglist",
+    "jwtSecret": "shoppinglist_mysecret"
+}
